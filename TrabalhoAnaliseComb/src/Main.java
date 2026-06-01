@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Anagramas {
+public class Main {
 
     // Função para calcular fatorial
     public static long fatorial(int n) {
